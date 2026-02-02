@@ -1,0 +1,60 @@
+# ===== Build results =====
+bin/
+obj/
+out/
+
+# ===== User-specific files =====
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Visual Studio =====
+.vs/
+.vscode/
+
+# ===== Rider =====
+.idea/
+*.sln.iml
+
+# ===== Mono =====
+.mono/
+
+# ===== DotCover =====
+*.dotCover
+
+# ===== NuGet =====
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# ===== Logs =====
+*.log
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== Test results =====
+TestResults/
+*.trx
+
+# ===== Publish =====
+publish/
+wwwroot/lib/
+
+# ===== Resharper =====
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# ===== EF =====
+Migrations/*.Designer.cs
+Migrations/*.resx
+
+# ===== Secrets =====
+secrets.json
+appsettings.*.json
