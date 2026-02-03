@@ -1,9 +1,12 @@
 ﻿Console.WriteLine("Hello, Git World!");
 
-class Wheel
+class Car
 {
-    public void Spin()
+    public string Make { get; set; }
+    public string Model { get; set; }
+
+    public void StartEngine()
     {
-        Console.WriteLine("The wheel is spinning!");
+        Console.WriteLine("Engine started.");
     }
 }
