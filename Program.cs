@@ -1,3 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
-
-Console.WriteLine("Will be Cherry-Picked");
+﻿Console.WriteLine("Hello, Git World!");
